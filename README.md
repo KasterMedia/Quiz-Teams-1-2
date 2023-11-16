@@ -15,3 +15,4 @@ This repo already contains a `launch.json` file that is configured for you to de
    - a specific category to be quizzed on,
    - a random assortment of 5 questions or
    - all questions
+Github is working
